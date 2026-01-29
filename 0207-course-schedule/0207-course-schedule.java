@@ -1,6 +1,7 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         List<List<Integer>> adj=new ArrayList<> ();
+        int[] indeg=new int[numCourses];
         int n=numCourses;
 
         for(int i=0;i<n;i++){
@@ -12,35 +13,28 @@ class Solution {
             int v=prerequisites[i][0];
             
             adj.get(u).add(v);
+            indeg[v]++;
         }
 
-        int[] state=new int[numCourses];
+        Queue<Integer> q=new LinkedList<> ();
+        int count=0;
+        
+        for(int i=0;i<n;i++){
+            if(indeg[i]==0) q.add(i);
+        };
 
-        for(int i=0;i<numCourses;i++){
-            if(state[i]==0){
-                if(hasCycle(adj, state, i)){
-                    return false;
+        while(!q.isEmpty()){
+            int p=q.poll();
+            count++;
+            for(int nbr:adj.get(p)){
+                indeg[nbr]--;
+                if(indeg[nbr]==0){
+                    q.add(nbr);
                 }
             }
         }
 
-        return true;
-    }
-
-    public boolean hasCycle(List<List<Integer>> adj, int[] state, int course){
-        if(state[course]==1) return true;
-        if(state[course]==2) return false;
-
-        state[course]=1;
-
-        for(int nbr:adj.get(course)){
-            if(state[nbr]==1) return true;
-            if(state[nbr]==0&&hasCycle(adj, state, nbr)){
-                return true;
-            }
-        }
-
-        state[course]=2;
+        if(count==n) return true;
         return false;
-    }
+    }   
 }
