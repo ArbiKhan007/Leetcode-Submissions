@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
