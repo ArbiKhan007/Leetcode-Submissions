@@ -49,4 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
