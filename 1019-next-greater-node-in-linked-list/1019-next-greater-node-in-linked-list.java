@@ -9,8 +9,9 @@
  * }
  */
 class Solution {
+    Stack<Integer> st=new Stack<> ();
     public int[] nextLargerNodes(ListNode head) {
-        List<Integer> list=new ArrayList<> ();
+        LinkedList<Integer> list = new LinkedList<>();
         helper(head, list);
         int[] res=new int[list.size()];
         int idx=0;
@@ -18,16 +19,15 @@ class Solution {
         return res;
     }
 
-    public int helper(ListNode node, List<Integer> list){
-        if(node==null) return Integer.MIN_VALUE;
+    public void helper(ListNode node, LinkedList<Integer> list){
+        if(node==null) return;
 
-        int next=helper(node.next, list);
-        if(next>node.val){
-            list.add(0, next);
-        }else{
-            list.add(0, 0);
+        helper(node.next, list);
+        while(!st.isEmpty()&&st.peek()<=node.val){
+            st.pop();
         }
-
-        return Math.max(next, node.val);
+        if(st.isEmpty()) list.addFirst(0);
+        else list.addFirst(st.peek());
+        st.push(node.val);
     }
 }
