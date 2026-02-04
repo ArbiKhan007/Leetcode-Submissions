@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<prices.length;i++){
             min=Math.min(prices[i], min);
             if(prices[i]-min<0){
-                maxProf=prices[i];
+                //maxProf=prices[i];
                 continue;
             }
 
