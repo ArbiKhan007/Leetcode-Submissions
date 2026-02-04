@@ -9,21 +9,27 @@
  * }
  */
 class Solution {
-    ListNode h=null;
     public boolean isPalindrome(ListNode head) {
-        h=head;
-        return helper(head);
-    }
+        Stack<Integer> st=new Stack<> ();
+        int count=0;
+        ListNode slow=head;
+        ListNode fast=head;
 
-    public boolean helper(ListNode tail){
-        if(tail==null) return true;
-        if(!helper(tail.next)) return false;
-        if(h.val==tail.val){
-            System.out.println(h.val+" "+tail.val);
-            h=h.next;
-            return true;
+        while(fast!=null&&fast.next!=null){
+            st.push(slow.val);
+            slow=slow.next;
+            fast=fast.next.next;
         }
 
-        return false;
+        if(fast!=null){
+            slow=slow.next;
+        }
+
+        while(slow!=null){
+            if(slow.val!=st.pop()) return false;
+            slow=slow.next;
+        }
+
+        return true;
     }
 }
