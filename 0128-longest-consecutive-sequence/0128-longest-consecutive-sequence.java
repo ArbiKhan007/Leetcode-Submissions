@@ -1,24 +1,45 @@
 class Solution {
+    Map<Integer, Integer> parent;
+    Map<Integer, Integer> size;
     public int longestConsecutive(int[] nums) {
-        Set<Integer> set=new HashSet<> ();
-        int longest=0;
-
-        for(int i=0;i<nums.length;i++){
-            set.add(nums[i]);
+        int n=nums.length;
+        parent=new HashMap<> ();
+        size=new HashMap<> ();
+        
+        for(int num:nums){
+            parent.put(num, num);
+            size.put(num, 1);
         }
 
-        for(Integer i:set){
-            if(!set.contains(i-1)){
-                int len=1;
-                int next=i+1;
-                while(set.contains(next)){
-                    len++;
-                    next++;
-                }
-                longest=Math.max(longest, len);
+        for(int num:nums){
+            if(parent.containsKey(num+1)){
+                union(num, num+1);
             }
         }
 
+        int longest = 0;
+        for (int num : size.keySet()) {
+            longest = Math.max(longest, size.get(findPar(num)));
+        }
         return longest;
+    }
+
+    public int findPar(int x){
+        if(parent.get(x)!=x){
+            parent.put(x, findPar(parent.get(x)));
+            return parent.get(x);
+        }
+
+        return x;
+    }
+
+    public void union(int u, int v){
+        int pu=findPar(u);
+        int pv=findPar(v);
+
+        if(pu==pv) return;
+
+        size.put(pu, size.get(pu)+size.get(pv));
+        parent.put(pv, pu);
     }
 }
