@@ -39,7 +39,12 @@ class Solution {
 
         if(pu==pv) return;
 
-        size.put(pu, size.get(pu)+size.get(pv));
-        parent.put(pv, pu);
+        if (size.get(pu) < size.get(pv)) {
+            parent.put(pu, pv);
+            size.put(pv, size.get(pv) + size.get(pu));
+        } else {
+            parent.put(pv, pu);
+            size.put(pu, size.get(pu) + size.get(pv));
+        }
     }
 }
