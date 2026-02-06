@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Hash Table
@@ -139,4 +142,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
