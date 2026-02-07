@@ -1,16 +1,24 @@
 class Solution {
     public int[] minOperations(String boxes) {
-        int[] res=new int[boxes.length()];
-        for(int i=0;i<boxes.length();i++){
-            int dist=0;
-            for(int j=i-1;j>=0;j--){
-                if(boxes.charAt(j)=='1') dist+=i-j;
-            }
+        int n=boxes.length();
+        int[] res=new int[n];
 
-            for(int j=i+1;j<boxes.length();j++){
-                if(boxes.charAt(j)=='1') dist+=j-i;
-            }
-            res[i]=dist;
+        int moves=0;
+        int balls=0;
+        for(int i=0;i<n;i++){
+            char c=boxes.charAt(i);
+            res[i]=moves+balls;
+            moves=res[i];
+            if(c=='1') balls++;
+        }
+
+        moves=0;balls=0;
+        for(int i=n-1;i>=0;i--){
+            char c=boxes.charAt(i);
+            int sum=moves+balls;
+            res[i]+=sum;
+            moves=sum;
+            if(c=='1') balls++;
         }
 
         return res;
