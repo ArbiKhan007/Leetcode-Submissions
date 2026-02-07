@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Randomized
 |  |
 | ------- |
@@ -156,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
