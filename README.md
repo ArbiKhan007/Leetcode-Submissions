@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+## String
+|  |
+| ------- |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+## Prefix Sum
+|  |
+| ------- |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
