@@ -1,31 +1,29 @@
 class Solution {
     public int garbageCollection(String[] garbage, int[] travel) {
-        int mpre,gpre,ppre;
-        int n=garbage.length;
-        mpre=0;gpre=0;ppre=0;
-        int res=0;
+         int total = 0;
 
-        for(int i=0;i<n;i++){
-            for(char c:garbage[i].toCharArray()){
-                if(c=='G') gpre++;
-                else if(c=='M') mpre++;
-                else ppre++;
-            }
-        }
+    int lastM = 0, lastG = 0, lastP = 0;
 
-        for(int i=0;i<n;i++){
-            res+=garbage[i].length();
-            if(i!=0&&mpre>0) res+=travel[i-1];
-            if(i!=0&&gpre>0) res+=travel[i-1];
-            if(i!=0&&ppre>0) res+=travel[i-1];
+    // Count garbage & track last occurrence
+    for (int i = 0; i < garbage.length; i++) {
+        String g = garbage[i];
+        total += g.length();
 
-            for(char c:garbage[i].toCharArray()){
-                if(c=='G') gpre--;
-                else if(c=='M') mpre--;
-                else ppre--;
-            }
-        }
+        if (g.contains("M")) lastM = i;
+        if (g.contains("G")) lastG = i;
+        if (g.contains("P")) lastP = i;
+    }
 
-        return res;
+    // Prefix sum for travel time
+    for (int i = 1; i < travel.length; i++) {
+        travel[i] += travel[i - 1];
+    }
+
+    // Add travel cost for each truck
+    if (lastM > 0) total += travel[lastM - 1];
+    if (lastG > 0) total += travel[lastG - 1];
+    if (lastP > 0) total += travel[lastP - 1];
+
+    return total;
     }
 }
