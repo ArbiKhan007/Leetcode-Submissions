@@ -15,25 +15,22 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        if(helper(root)>=1e4){
-            return false;
-        }
-
-        return true;
+        return helper(root)!=-1;
     }
 
     public int helper(TreeNode root){
         if(root==null) return 0;
 
         int left=helper(root.left);
+        if(left==-1) return -1;
+
         int right=helper(root.right);
+        if(right==-1) return -1;
 
-        System.out.println(root.val+" "+left+" "+right);
-
-        if(Math.abs(left-right)<=1){
-            return 1+Math.max(left, right);
+        if(Math.abs(left-right)>1){
+            return -1;
         }
 
-        return (int) 1e4;
+        return 1+Math.max(left, right);
     }
 }
