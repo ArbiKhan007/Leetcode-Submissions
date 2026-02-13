@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Linked List
 |  |
