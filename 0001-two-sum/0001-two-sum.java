@@ -8,6 +8,7 @@ class Solution {
             if(map.containsKey(rem)&&map.get(rem)!=i){
                 res[0]=map.get(rem);
                 res[1]=i;
+                return res;
             }
 
             map.put(nums[i], i);
