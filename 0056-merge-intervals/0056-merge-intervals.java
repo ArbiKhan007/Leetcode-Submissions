@@ -2,8 +2,7 @@ class Solution {
     public int[][] merge(int[][] intervals) {
         List<int[]> res=new ArrayList<> ();
         Arrays.sort(intervals, (a,b)->{
-            if(a[0]!=b[0]) return a[0]-b[0];
-            return a[1]-b[1];
+            return a[0]-b[0];
         });
         
         int st=intervals[0][0];
