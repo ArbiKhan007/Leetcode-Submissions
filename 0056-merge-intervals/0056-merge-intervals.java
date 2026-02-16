@@ -14,7 +14,6 @@ class Solution {
                 st=intervals[i][0];
                 end=intervals[i][1];
             }else{
-                st=Math.min(intervals[i][0], st);
                 end=Math.max(intervals[i][1], end);
             }
         }
