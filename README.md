@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0684-redundant-connection) |
+| [1514-path-with-maximum-probability](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1514-path-with-maximum-probability](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -218,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
