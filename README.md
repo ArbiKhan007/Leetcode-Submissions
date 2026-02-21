@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3668-restore-finishing-order](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [3668-restore-finishing-order](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3668-restore-finishing-order) |
 ## Stack
 |  |
 | ------- |
