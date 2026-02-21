@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Randomized
 |  |
 | ------- |
