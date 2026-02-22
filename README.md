@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0075-sort-colors) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0046-permutations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
