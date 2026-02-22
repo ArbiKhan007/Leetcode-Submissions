@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0075-sort-colors) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0169-majority-element) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0047-permutations-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
