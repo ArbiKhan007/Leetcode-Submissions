@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0904-fruit-into-baskets](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1514-path-with-maximum-probability](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3668-restore-finishing-order](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3668-restore-finishing-order) |
 ## Stack
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
