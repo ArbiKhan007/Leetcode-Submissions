@@ -6,6 +6,8 @@ class Solution {
         int i=0,j=0;
 
         while(j<fruits.length){
+            baskets.put(fruits[j], baskets.getOrDefault(fruits[j],0)+1);
+
             while(baskets.size()>2){
                 baskets.put(fruits[i], baskets.get(fruits[i])-1);
                 if(baskets.get(fruits[i])==0) baskets.remove(fruits[i]);
@@ -13,7 +15,6 @@ class Solution {
             }
 
             maxFruits=Math.max(maxFruits, j-i+1);
-            baskets.put(fruits[j], baskets.getOrDefault(fruits[j],0)+1);
             j++;
         }
 
