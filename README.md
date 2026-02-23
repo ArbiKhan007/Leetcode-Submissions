@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
