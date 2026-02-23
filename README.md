@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0907-sum-of-subarray-minimums) |
 ## Math
 |  |
@@ -250,10 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 ## Backtracking
 |  |
