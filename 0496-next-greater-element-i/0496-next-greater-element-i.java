@@ -1,41 +1,24 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Map<Integer, Integer> map=new HashMap<> ();
-        Stack<Integer> st=new Stack<> ();
-
-        int m=nums1.length;
-        int n=nums2.length;
-        int[] res=new int[m];
-        int[] nextGr=new int[n];
+        int[] res=new int[nums1.length];
         int idx=0;
+        for(int num:nums1){
+            for(int i=0;i<nums2.length;i++){
+                if(nums2[i]==num){
+                    boolean found=false;
+                    for(int j=i+1;j<nums2.length;j++){
+                        if(nums2[j]>num){
+                            res[idx++]=nums2[j];
+                            found=true;
+                            break;
+                        }
+                    }
 
-        for(int i=0;i<n;i++){
-            map.put(nums2[i], i);
-        }
-
-        for(int i=n-1;i>=0;i--){
-            if(st.isEmpty()){
-                nextGr[i]=-1;
-            }
-
-            if(!st.isEmpty()&&st.peek()<nums2[i]){
-                // pop all smaller elements
-                while (!st.isEmpty() && st.peek() <= nums2[i]) {
-                    st.pop();
+                    if(!found){
+                        res[idx++]=-1;
+                    }
                 }
-
-                nextGr[i] = st.isEmpty() ? -1 : st.peek();
             }
-
-            if(!st.isEmpty()&&st.peek()>nums2[i]){
-                nextGr[i]=st.peek();
-            }
-
-            st.push(nums2[i]);
-        }
-
-        for(int i=0;i<m;i++){
-            res[idx++]=nextGr[map.get(nums1[i])];
         }
 
         return res;
