@@ -8,19 +8,24 @@ class Solution {
             map.put(nums2[i],i);
         }
 
+        Stack<Integer> st=new Stack<> ();
+        for(int i=nums2.length-1;i>=0;i--){
+            while(!st.isEmpty()&&st.peek()<=nums2[i]){
+                st.pop();
+            }
+
+            if(st.isEmpty()){
+                st.push(nums2[i]);
+                nums2[i]=-1;
+            }else{
+                int orig=nums2[i];
+                nums2[i]=st.peek();
+                st.push(orig);
+            }
+        }
+
         for(int num:nums1){
-            int idx1=map.get(num);
-            boolean found=false;
-            for(int i=idx1+1;i<nums2.length;i++){
-                if(nums2[i]>num){
-                    found=true;
-                    res[idx++]=nums2[i];
-                    break;
-                }
-            }
-            if(!found){
-                res[idx++]=-1;
-            }
+            res[idx++]=nums2[map.get(num)];
         }
 
         return res;
