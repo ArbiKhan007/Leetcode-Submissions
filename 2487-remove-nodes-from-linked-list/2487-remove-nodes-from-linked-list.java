@@ -23,16 +23,13 @@ class Solution {
             ptr=ptr.next;
         }
 
-        Collections.reverse(st);
-
-        ptr=head;
+        ListNode dummy=null;
         while(!st.isEmpty()){
-            ptr.val=st.pop();
-            
-            if(st.isEmpty()) ptr.next=null;
-            ptr=ptr.next;
+            ListNode node=new ListNode(st.pop());
+            node.next=dummy;
+            dummy=node;
         }
 
-        return head;
+        return dummy;
     }
 }
