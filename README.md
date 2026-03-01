@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Depth-First Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0907-sum-of-subarray-minimums) |
