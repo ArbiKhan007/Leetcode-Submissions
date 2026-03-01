@@ -10,34 +10,25 @@ class MyQueue {
     }
     
     public int pop() {
-        while(!prim.isEmpty()){
-            second.push(prim.pop());
-        }
-
-        int res=second.pop();
-
-        while(!second.isEmpty()){
-            prim.push(second.pop());
-        }
-
-        return res;
+        shift();
+        return second.pop();
     }
     
     public int peek() {
-        while(!prim.isEmpty()){
-            second.push(prim.pop());
-        }
-
-        int res=second.peek();
-
-        while(!second.isEmpty()){
-            prim.push(second.pop());
-        }
-        return res;
+        shift();
+        return second.peek();
     }
     
     public boolean empty() {
-        return prim.isEmpty();
+        return prim.isEmpty()&&second.isEmpty();
+    }
+
+    private void shift(){
+        if(second.isEmpty()){
+            while(!prim.isEmpty()){
+                second.push(prim.pop());
+            }
+        }
     }
 }
 
