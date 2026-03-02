@@ -17,28 +17,28 @@ class Solution {
             fast=fast.next.next;
         }
 
-        ListNode ptr=head;
-        ListNode ptr2=slow.next;
+        ListNode second=slow.next;
         slow.next=null;
         ListNode prev=null;
 
-        while(ptr2!=null){
-            ListNode next=ptr2.next;
-            ptr2.next=prev;
-            prev=ptr2;
-            ptr2=next;
+        while(second!=null){
+            ListNode next=second.next;
+            second.next=prev;
+            prev=second;
+            second=next;
         }
 
-        ptr2=prev;
+        second=prev;
+        ListNode first=head;
 
-        while(ptr2!=null){
-            ListNode next=ptr.next;
-            ptr.next=ptr2;
-            ListNode next2=ptr2.next;
-            ptr2.next=next;
+        while(second!=null){
+            ListNode fNext=first.next;
+            first.next=second;
+            ListNode sNext=second.next;
+            second.next=fNext;
 
-            ptr=next;
-            ptr2=next2;
+            first=fNext;
+            second=sNext;
         }
     }
 }
