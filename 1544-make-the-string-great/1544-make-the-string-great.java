@@ -5,9 +5,7 @@ class Solution {
         Stack<Character> st=new Stack<> ();
 
         for(char c:s.toCharArray()){
-            if(!st.isEmpty()
-                &&
-            (c!=st.peek()&&(Character.toLowerCase(c)==st.peek()||c==Character.toLowerCase(st.peek())))){
+            if(!st.isEmpty()&&Math.abs(c-st.peek())==32){
                 st.pop();
             }else{
                 st.push(c);
