@@ -3,11 +3,10 @@ class Solution {
         int vac=1;
         String[] prearr=preorder.split(",");
         for(String str:prearr){
+            vac--;
             if(str.equals("#")){
-                vac--;
                 if(vac<0) return false;
             }else{
-                vac--;
                 if(vac<0) return false;
                 vac+=2;
             }
