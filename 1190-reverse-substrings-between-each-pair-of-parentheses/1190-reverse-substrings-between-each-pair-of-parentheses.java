@@ -1,6 +1,7 @@
 class Solution {
     public String reverseParentheses(String s) {
         Stack<StringBuilder> st=new Stack<> ();
+        st.push(new StringBuilder());  // base layer
         for(char c:s.toCharArray()){
             if(c=='('){
                 st.push(new StringBuilder());
@@ -10,8 +11,6 @@ class Solution {
                 else st.peek().append(top);
             }else if(!st.isEmpty()){
                 st.peek().append(c);
-            }else{
-                st.push(new StringBuilder().append(c));
             }
         }
 
