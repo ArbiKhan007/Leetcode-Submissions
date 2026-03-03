@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0895-maximum-frequency-stack](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3668-restore-finishing-order](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3668-restore-finishing-order) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0895-maximum-frequency-stack](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0895-maximum-frequency-stack](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
