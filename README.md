@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0386-lexicographical-numbers](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0684-redundant-connection) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0895-maximum-frequency-stack) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
