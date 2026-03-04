@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1544-make-the-string-great](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1544-make-the-string-great) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2062-count-vowel-substrings-of-a-string) |
