@@ -10,6 +10,9 @@ class Solution {
             if(--freq[c] < 0)
                 return false;
 
+        if(freq[word.charAt(0)] > freq[word.charAt(word.length()-1)])
+        word = new StringBuilder(word).reverse().toString();
+
         for(int i=0;i<board.length;i++){
             for(int j=0;j<board[0].length;j++){
                 char c=board[i][j];
