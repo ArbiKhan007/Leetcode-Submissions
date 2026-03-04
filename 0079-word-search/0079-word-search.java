@@ -1,5 +1,15 @@
 class Solution {
     public boolean exist(char[][] board, String word) {
+        int[] freq = new int[128];
+
+        for(char[] row : board)
+            for(char c : row)
+                freq[c]++;
+
+        for(char c : word.toCharArray())
+            if(--freq[c] < 0)
+                return false;
+
         for(int i=0;i<board.length;i++){
             for(int j=0;j<board[0].length;j++){
                 char c=board[i][j];
