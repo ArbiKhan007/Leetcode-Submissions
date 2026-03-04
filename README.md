@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -243,12 +245,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1544-make-the-string-great) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0079-word-search) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
