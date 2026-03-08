@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
