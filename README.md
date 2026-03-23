@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0169-majority-element) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 ## Queue
 |  |
