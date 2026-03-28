@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2942-find-words-containing-character](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2942-find-words-containing-character) |
 | [3271-hash-divided-string](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3271-hash-divided-string) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3271-hash-divided-string](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3271-hash-divided-string) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
