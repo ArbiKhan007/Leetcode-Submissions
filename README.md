@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/3668-restore-finishing-order) |
 ## Stack
 |  |
