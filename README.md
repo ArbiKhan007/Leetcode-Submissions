@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0451-sort-characters-by-frequency](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Linked List
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0451-sort-characters-by-frequency](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1544-make-the-string-great](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1544-make-the-string-great) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
@@ -349,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
