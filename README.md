@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0895-maximum-frequency-stack) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0383-ransom-note](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/ArbiKhan007/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
